@@ -1,0 +1,6 @@
+C:\Users\Дмитрий\Source\Repos\Kontur.ImageTransformer\Kontur.ImageTransformer\bin\Debug\ImageTransformer.exe.config
+C:\Users\Дмитрий\Source\Repos\Kontur.ImageTransformer\Kontur.ImageTransformer\obj\Debug\ImageTransformer.exe
+C:\Users\Дмитрий\Source\Repos\Kontur.ImageTransformer\Kontur.ImageTransformer\obj\Debug\ImageTransformer.pdb
+C:\Users\Дмитрий\Source\Repos\Kontur.ImageTransformer\Kontur.ImageTransformer\bin\Debug\ImageTransformer.exe
+C:\Users\Дмитрий\Source\Repos\Kontur.ImageTransformer\Kontur.ImageTransformer\bin\Debug\ImageTransformer.pdb
+C:\Users\Дмитрий\Source\Repos\Kontur.ImageTransformer\Kontur.ImageTransformer\obj\Debug\Kontur.ImageTransformer.csprojResolveAssemblyReference.cache

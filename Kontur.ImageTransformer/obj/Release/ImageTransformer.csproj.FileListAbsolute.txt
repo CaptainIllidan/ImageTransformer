@@ -1,0 +1,7 @@
+C:\Users\Дмитрий\Source\Repos\ImageTransformer\ImageTransformer\bin\Release\ImageTransformer.exe.config
+C:\Users\Дмитрий\Source\Repos\ImageTransformer\ImageTransformer\bin\Release\ImageTransformer.exe
+C:\Users\Дмитрий\Source\Repos\ImageTransformer\ImageTransformer\bin\Release\ImageTransformer.pdb
+C:\Users\Дмитрий\Source\Repos\ImageTransformer\ImageTransformer\obj\Release\ImageTransformer.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Source\Repos\ImageTransformer\ImageTransformer\obj\Release\ImageTransformer.exe
+C:\Users\Дмитрий\Source\Repos\ImageTransformer\ImageTransformer\obj\Release\ImageTransformer.pdb
+C:\Users\Дмитрий\Source\Repos\ImageTransformer\ImageTransformer\obj\Release\ImageTransformer.csprojResolveAssemblyReference.cache
